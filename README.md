@@ -13,6 +13,7 @@ The purpose of this repository is to provide an assignment that will highlight t
 
 - [General Information](#general-information)
 - [Assignment](#assignment)
+    - [Current scenario](#current-scenario)
     - [Transformation and Migration to the Public Cloud](#transformation-and-migration-to-the-public-cloud)
 - [Deliverables](#deliverables)
 - [Links](#links)
